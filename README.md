@@ -1,5 +1,12 @@
 ## API REST - RESEÑAS DE PELICULAS
-** Seed **
+
+### FRONTEND ###
+
+1 - "npm install"
+
+2 - "npm run dev"
+
+### BACKEND ###
 
 CAMVIAR ARCHIVO .env.example por .env
 se pueden generar .env.local y .env.development, etc
